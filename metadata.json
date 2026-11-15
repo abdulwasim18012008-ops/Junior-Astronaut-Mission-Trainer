@@ -1,0 +1,6 @@
+{
+  "name": "SPACE EXPLORER",
+  "description": "Two worlds. Two adventures. One journey. Explore Mars and the Moon in one unified Space Explorer launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
